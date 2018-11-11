@@ -6,7 +6,7 @@ number2 =gets.chomp.to_i
 
 answer = number1 + number2 
 
-print number1.to_s + " + " + number2.to_s + " = "
+print number1.to_s + " + " + "RM " + number2.to_s 
 
 puts answer 
 
